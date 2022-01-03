@@ -1,0 +1,11 @@
+.error
+{
+  border:1px solid orangered;
+}
+.stu {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    column-gap: .5em;
+    width: 400px
+  }
